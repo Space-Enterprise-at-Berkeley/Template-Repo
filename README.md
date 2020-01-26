@@ -37,4 +37,4 @@ NOTE: Unless you have enabled developer mode in the latest version of Windows 10
 find -type l -delete
 git reset --hard
 ```
-NOTE: this will reset any changes since last commit so make sure you have committed first
+NOTE: This will reset any changes since last commit so make sure you have committed first
